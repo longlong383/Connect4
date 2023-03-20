@@ -1,0 +1,11 @@
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\connect4\connect4\bin\Debug\connect4.exe.config
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\connect4\connect4\bin\Debug\connect4.exe
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\connect4\connect4\bin\Debug\connect4.pdb
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\connect4\connect4\obj\Debug\connect4.csproj.AssemblyReference.cache
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\connect4\connect4\obj\Debug\connect4.csproj.SuggestedBindingRedirects.cache
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\connect4\connect4\obj\Debug\connect4.Form1.resources
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\connect4\connect4\obj\Debug\connect4.Properties.Resources.resources
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\connect4\connect4\obj\Debug\connect4.csproj.GenerateResource.cache
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\connect4\connect4\obj\Debug\connect4.csproj.CoreCompileInputs.cache
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\connect4\connect4\obj\Debug\connect4.exe
+C:\Users\aricq\OneDrive - Algoma District School Board\Grade 12 work\Semester 2\ICS4U1\connect4\connect4\obj\Debug\connect4.pdb
